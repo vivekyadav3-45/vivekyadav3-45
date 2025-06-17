@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @vivekyadav3-45
-- 👀 I’m interested in data Analyst designation 
-- 🌱 I’m currently learning data visualization.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Vivek Yadav 👋
 
-<!---
-vivekyadav3-45/vivekyadav3-45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring Data Analyst | SQL | Power BI | Excel | Python
+
+I am passionate about transforming data into actionable insights and building interactive dashboards. Currently, I am building projects to strengthen my data analysis skills and contribute to business problem-solving.
+
+## 🔧 Skills
+- **SQL** (Joins, Window Functions, Subqueries, Aggregations)
+- **Power BI** (Data Modeling, Reports, Interactive Dashboards)
+- **Excel** (Pivot Tables, VLOOKUP, Charts, Data Cleaning)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+
+## 📊 Projects
+- [Blinkit Grocery Sales Dashboard](https://github.com/vivekyadav3-45/Blinkit-Grocery-sales-Dashboard)
+- Sales Performance Analysis (Coming Soon)
+- Excel Retail Dashboard (Coming Soon)
+
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/vivek-yadav-907897241/)
+- 📧 Email: yaadvivek.18@gmail.com
+
