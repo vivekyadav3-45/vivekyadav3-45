@@ -8,12 +8,7 @@ I am passionate about transforming data into actionable insights and building in
 - **SQL** (Joins, Window Functions, Subqueries, Aggregations)
 - **Power BI** (Data Modeling, Reports, Interactive Dashboards)
 - **Excel** (Pivot Tables, VLOOKUP, Charts, Data Cleaning)
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-
-## 📊 Projects
-- [Blinkit Grocery Sales Dashboard](https://github.com/vivekyadav3-45/Blinkit-Grocery-sales-Dashboard)
-- Sales Performance Analysis (Coming Soon)
-- Excel Retail Dashboard (Coming Soon)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn
 
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/vivek-yadav-907897241/)
