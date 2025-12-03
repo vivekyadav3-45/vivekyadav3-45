@@ -5,10 +5,15 @@
 I am passionate about transforming data into actionable insights and building interactive dashboards. Currently, I am building projects to strengthen my data analysis skills and contribute to business problem-solving.
 
 ## 🔧 Skills
-- **SQL** (Joins, Window Functions, Subqueries, Aggregations)
-- **Power BI** (Data Modeling, Reports, Interactive Dashboards)
-- **Excel** (Pivot Tables, VLOOKUP, Charts, Data Cleaning)
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn
+-Python (EDA & ML Stack): Pandas, NumPy, Scikit-Learn, ETL pipelines, K-Means clustering
+
+Databases: PostgreSQL, Microsoft SQL Server
+
+BI & Visualization: Power BI, Looker Studio
+
+ML Techniques: Customer clustering, anomaly detection, segment modeling
+
+Tools & Platforms: Jira, Visual Studio Code
 
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/vivek-yadav-907897241/)
