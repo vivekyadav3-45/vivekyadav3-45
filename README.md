@@ -1,21 +1,93 @@
-# Hi there, I'm Vivek Yadav 👋
+# VIVEK YADAV
 
-🎯 Aspiring Data Analyst | SQL | Power BI | Excel | Python
+### Data Analyst | SQL, Power BI & Automation
 
-I am passionate about transforming data into actionable insights and building interactive dashboards. Currently, I am building projects to strengthen my data analysis skills and contribute to business problem-solving.
+Turning raw operational data into decisions leadership can act on.
 
-## 🔧 Skills
--Python (EDA & ML Stack): Pandas, NumPy, Scikit-Learn, ETL pipelines, K-Means clustering
+📍 Gurugram, India | 📧 yaadavivek.18@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/vivek-yadav-907897241)
 
-Databases: PostgreSQL, Microsoft SQL Server
+---
 
-BI & Visualization: Power BI, Looker Studio
+## 👋 About Me
 
-ML Techniques: Customer clustering, anomaly detection, segment modeling
+I'm a Data Analyst focused on **SQL-based data modeling, ETL pipeline development, and Power BI/Tableau reporting**.
 
-Tools & Platforms: Jira, Visual Studio Code
+I automated recurring MIS reporting across **15+ client accounts**, cutting manual review time from ~3 hours to under 5 minutes per cycle, and improving visibility into KPI and SLA performance.
 
-## 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/vivek-yadav-907897241/)
-- 📧 Email: yaadvivek.18@gmail.com
+I also led a self-directed initiative connecting live operational data to a **Claude-based AI interface via MCP (Model Context Protocol)** — letting non-technical managers query dashboards in plain language instead of digging through filters.
 
+**🎯 Currently:** Deepening my skills in LLMs and n8n workflow automation.
+
+**💡 Philosophy:** If a report is being built by hand more than once, it should be automated.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+## 🛠️ Core Skills
+
+**SQL:** Joins, CTEs, window functions, query performance tuning (MS SQL Server, PostgreSQL)
+
+**Data Modeling:** Fact/dimension design, table relationships & cardinality, star-schema structuring
+
+**ETL & Data Integration:** Pipeline scripting, data cleaning/validation/transformation, ticketing system & AWS S3 integration
+
+**BI Platforms:** Power BI (DAX, Power Query, drill-through, multi-page dashboards), Tableau
+
+**Automation & AI Tooling:** MCP server integration with Claude, API-based automation, learning n8n, studying LLM fundamentals
+
+**Python:** Pandas, NumPy for data cleaning, transformation, and pipeline scripting
+
+**Data Quality:** EDA, validation, variance analysis, KPI/SLA tracking
+
+**Finance Domain:** Invoice reconciliation, AR/AP tracking, cash-flow reporting
+
+**Cloud & Tools:** AWS S3, Advanced Excel
+
+---
+
+## 🚀 Featured Work
+
+### 📊 MIS & Financial Analyst — Suvitt Service Solutions LLP
+- Built a **Python ETL pipeline** integrated with Freshdesk, cutting manual MIS review time from ~3 hours to under 5 minutes per cycle
+- Automated daily/weekly MIS reports on task completion, overdue KPIs, and SLA adherence across **15+ client accounts**
+- Designed multi-page **Power BI dashboards** across 5 departments, with drill-down from volume → client → employee → ticket
+- Connected Freshdesk data to an **MCP server + Claude AI interface**, enabling natural-language ticket insights for management
+- Reconciled **200+ monthly financial transactions** via SQL with variance analysis to catch discrepancies early
+
+### 🛒 E-Commerce Sales & Customer Analysis (2026)
+- Cleaned **12,000+ order records**, removing 179 duplicates and imputing 1,945 missing values
+- Built a relational data model to support trend, category/region, and customer-segment analysis
+- Identified Electronics as the top revenue driver — **57.6% of total revenue**
+
+### 🏪 Superstore Sales & Blinkit Retail Analysis (2025)
+- Analyzed **10,000+ sales records** with SQL and Python to surface regional performance gaps and YoY growth trends
+- Built interactive Power BI dashboards for executive-ready retail performance comparisons
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Tech** — Shri Ramswaroop Memorial College (2024)
+- **HackerRank Certified:** Advanced Excel, SQL, Power BI, Python, Problem Solving (Intermediate)
+
+---
+
+## 🤝 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-yaadavivek.18%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yaadavivek.18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek--yadav-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-yadav-907897241)
+
+*📌 Pinned repos below — dashboards, pipelines, and the MCP + Claude integration.*
