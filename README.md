@@ -5,7 +5,7 @@ Turning raw operational data into decisions leadership can act on.
 
 📍 Gurugram, India | 📧 yaadavivek.18@gmail.com | 🔗 LinkedIn
 
- About Me
+👋 About Me
 
 I'm a Data Analyst focused on SQL-based data modeling, ETL pipeline development, and Power BI/Tableau reporting.
 
@@ -13,11 +13,11 @@ I automated recurring MIS reporting across 15+ client accounts, cutting manual r
 
 I also led a self-directed initiative connecting live operational data to a Claude-based AI interface via MCP (Model Context Protocol) — letting non-technical managers query dashboards in plain language instead of digging through filters.
 
- Currently: Deepening my skills in LLMs and n8n workflow automation.
+🎯 Currently: Deepening my skills in LLMs and n8n workflow automation.
 
- Philosophy: If a report is being built by hand more than once, it should be automated.
+💡 Philosophy: If a report is being built by hand more than once, it should be automated.
 
- Tools and Technologies I Use
+🛠️ Tools and Technologies I Use
 
 Query & Programming Languages:
 
@@ -35,9 +35,10 @@ AI Agents & LLM Tooling:
 
 <p align="left"> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="60" /> <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logoColor=white" height="60" /> <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" height="60" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="60" /> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="60" /> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" height="60" /> </p>
 
- Currently Growing Into: Machine Learning · RAG (Retrieval-Augmented Generation) · LLM Engineering
+🌱 Currently Growing Into: Machine Learning · RAG (Retrieval-Augmented Generation) · LLM Engineering
 
- Core Skills
+<p align="left"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="60" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="60" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="60" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="60" /> </p>
+🛠️ Core Skills
 
 SQL: Joins, CTEs, window functions, query performance tuning (MS SQL Server, PostgreSQL)
 
@@ -74,7 +75,7 @@ Built interactive Power BI dashboards for executive-ready retail performance com
 🎓 Education & Certifications
 B.Tech — Shri Ramswaroop Memorial College (2024)
 HackerRank Certified: Advanced Excel, SQL, Power BI, Python, Problem Solving (Intermediate)
- Let's Connect
+🤝 Let's Connect
 
 Show Image Show Image
 
