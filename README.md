@@ -22,19 +22,45 @@ I also led a self-directed initiative connecting live operational data to a **Cl
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools and Technologies I Use
+
+**Query & Programming Languages:**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="60" style="vertical-align:top" />
 </p>
+
+**BI & Data Visualization:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="60" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="60" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="60" />
+</p>
+
+**Data, ETL & Cloud:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="60" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="60" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="60" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+</p>
+
+**AI Agents & LLM Tooling:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="60" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="60" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" height="60" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="60" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="60" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" height="60" />
+</p>
+
+**🌱 Currently Growing Into:** Machine Learning · RAG (Retrieval-Augmented Generation) · LLM Engineering
 
 ## 🛠️ Core Skills
 
@@ -46,7 +72,7 @@ I also led a self-directed initiative connecting live operational data to a **Cl
 
 **BI Platforms:** Power BI (DAX, Power Query, drill-through, multi-page dashboards), Tableau
 
-**Automation & AI Tooling:** MCP server integration with Claude, API-based automation, learning n8n, studying LLM fundamentals
+**Automation & AI Tooling:** MCP server integration with Claude, hands-on with Claude/ChatGPT/Perplexity as AI agents, API-based automation, learning n8n & Apache Airflow, growing into ML, RAG, and LLM engineering
 
 **Python:** Pandas, NumPy for data cleaning, transformation, and pipeline scripting
 
